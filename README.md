@@ -18,10 +18,12 @@ python main.py
 ```
  ### Some In Game Images:
  | Start Game: | Mid Game: |
- | ---------- | -------- |
+ | ----------- | --------- |
  | ![Start Game](./img/begin_game.png) | ![Mid Game](./img/mid_game.png) |
- | End Game: | Game Over: |
- | ![End Game](./img/end_game.png) | ![Game Over](./img/game_over.png) |
+
+| End Game: | Game Over: |
+| --------- | ---------- |
+| ![End Game](./img/end_game.png) | ![Game Over](./img/game_over.png) |
 
 ### Credits:
 * Score sound: [FreeSound.org](https://freesound.org/people/MATRIXXX_/sounds/443258/)
