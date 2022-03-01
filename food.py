@@ -21,4 +21,14 @@ class Food(Turtle):
         """Moves the food to a new location and set's it to a random color"""
         self.goto(get_random_location())
         self.color(get_random_color(FOOD_COLORS))
+
+    
+    def change_color(self):
+        """Updates the color of the food to a new random color from the list"""
+        self.color(get_random_color(FOOD_COLORS))
+    
+    def update_food(self):
+        """Does everything required to update the food"""
+        self.move_food()
+        self.change_color()
         PlaySound("./music/coin_collect.wav", SND_ASYNC)

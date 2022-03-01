@@ -40,7 +40,7 @@ while game_is_on:
 
     # Check Collision with food
     if snake.head.distance(food) < CONTACT_THRESHOLD:
-        food.move_food()
+        food.update_food()
         snake.extend_snake()
         score_board.update_score()
 
