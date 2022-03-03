@@ -16,7 +16,7 @@
 ```python
 python main.py
 ```
- ### Some In Game Images:
+ ### In Game Images:
  | Start Game: | Mid Game: |
  | ----------- | --------- |
  | ![Start Game](./img/begin_game.png) | ![Mid Game](./img/mid_game.png) |
@@ -24,6 +24,9 @@ python main.py
 | End Game: | Game Over: |
 | --------- | ---------- |
 | ![End Game](./img/end_game.png) | ![Game Over](./img/game_over.png) |
+
+### In Game Video:
+![Game Play](./img/game_play.gif)
 
 ### Credits:
 * Score sound: [FreeSound.org](https://freesound.org/people/MATRIXXX_/sounds/443258/)
